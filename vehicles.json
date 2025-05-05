@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bmw-serie3",
+    "title": "BMW Série 3 2023",
+    "price": "R$ 280.000",
+    "brand": "bmw",
+    "year": "2023",
+    "km": "5.000 km",
+    "fuel": "Gasolina",
+    "transmission": "Automático",
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+      "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg",
+      "https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg",
+      "https://images.pexels.com/photos/892522/pexels-photo-892522.jpeg"
+    ],
+    "description": "BMW Série 3 2023 em estado impecável. Único dono, todas as revisões feitas na concessionária, documentação em dia."
+  },
+  {
+    "id": "range-rover",
+    "title": "Range Rover Evoque 2023",
+    "price": "R$ 320.000",
+    "brand": "range-rover",
+    "year": "2023",
+    "km": "8.000 km",
+    "fuel": "Diesel",
+    "transmission": "Automático",
+    "images": [
+      "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg",
+      "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg",
+      "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg",
+      "https://images.pexels.com/photos/248704/pexels-photo-248704.jpeg"
+    ],
+    "description": "Range Rover Evoque 2023 em excelente estado. Veículo com baixa quilometragem, todas as revisões realizadas na concessionária autorizada."
+  },
+  {
+    "id": "corolla-2022",
+    "title": "Toyota Corolla 2022",
+    "price": "R$ 120.000",
+    "brand": "toyota",
+    "year": "2022",
+    "km": "15.000 km",
+    "fuel": "Flex",
+    "transmission": "Automático",
+    "images": [
+      "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg",
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+      "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg",
+      "https://images.pexels.com/photos/248704/pexels-photo-248704.jpeg"
+    ],
+    "description": "Toyota Corolla 2022 em excelente estado. Único dono, todas as revisões feitas na concessionária, documentação em dia."
+  }
+]
